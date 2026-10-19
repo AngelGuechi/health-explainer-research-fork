@@ -1,3 +1,13 @@
+# Health Research Explainer - Fork
+
+A fork-based experiment in explaining published health research for different audiences. Includes PubMed retrieval, source attribution, role-tailored explanations, and video-script generation. This repository retains its upstream fork relationship and attribution. It is an educational prototype, not a source of clinical recommendations.
+
+[Angel Guechi portfolio](https://github.com/AngelGuechi)
+
+---
+
+## Existing technical guide
+
 # Health Explainer Agent 🏥
 
 A role-based health information system that provides AI-powered explanations of medical research. Each user type receives explanations tailored to their expertise level.
